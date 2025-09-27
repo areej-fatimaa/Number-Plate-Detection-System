@@ -1,0 +1,2 @@
+powershell.exe -Command "Start-Process powershell -ArgumentList 'cd Backend; ./venv/Scripts/activate; python manage.py runserver'"
+powershell.exe -Command "Start-Process powershell -ArgumentList 'cd anpds-frontend; npm install; npm run dev'"

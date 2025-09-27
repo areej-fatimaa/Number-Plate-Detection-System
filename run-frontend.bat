@@ -1,0 +1,1 @@
+powershell.exe -Command "Start-Process powershell -ArgumentList 'cd anpds-frontend; npm install; npm run dev'"

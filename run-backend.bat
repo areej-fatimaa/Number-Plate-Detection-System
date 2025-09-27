@@ -1,0 +1,1 @@
+powershell.exe -Command "Start-Process powershell -ArgumentList 'cd Backend; ./venv/Scripts/activate; python manage.py runserver'"

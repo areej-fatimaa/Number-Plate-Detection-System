@@ -1,0 +1,15 @@
+numpy
+firebase-admin
+Django
+django-cors-headers
+djangorestframework
+requests
+stripe
+ultralytics
+requests
+pillow
+pytesseract
+opencv-python
+matplotlib
+python-magic
+python-magic-bin
